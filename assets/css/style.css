@@ -1,14 +1,7 @@
-/*-----------------------------------*\
-  #main.css
-\*-----------------------------------*/
-
-/**
- * copyright 2022 codewithsadee
- */
 
 
 body{
-  /* user-select: none; */
+  user-select: none;
 }
 
 
